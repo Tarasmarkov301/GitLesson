@@ -1,2 +1,3 @@
 # GitLesson
-NewLine AddLine
+NewLine
+AddLine
